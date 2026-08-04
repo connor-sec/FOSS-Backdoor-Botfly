@@ -4,17 +4,25 @@ The free and open-source version of the **Backdoor Botfly** — a small, semi-di
 
 This is the earlier, community design that anyone can print, build, and modify. A refined version is in development for launch at DEF CON 34.
 
-## What it is
+## How it works
 
-The Backdoor Botfly mounts on a door frame above the door, on the side opposite the exposed hinges. When the door opens and then closes, the tool's tail drops into the gap and prevents the door from securely latching — supporting authorized re-entry during a physical security assessment. It works on many interior and exterior doors where the hinges are visible to you.
+The FOSS Backdoor Botfly is a tailgating tool designed to be used on doors where the hinges are exposed to you. This can be both interior and exterior doors.
+
+Start by peeling off the 3M mounting tape and placing the FOSS Backdoor Botfly on the door frame above the door, on the side opposite the hinges.
+
+As soon as the door opens, while a person is exiting, the FOSS Backdoor Botfly's tail will drop into the space the door previously occupied.
+
+Assuming the person does not see it, as the door closes it will catch the FOSS Backdoor Botfly's tail, which buries itself between the door and door frame, ultimately preventing the door from securely closing.
+
+Due to the nature of this device, we recommend not using it on the main door but rather a smokers' exit, side exit, or back door.
 
 ## Gallery
 
-![Backdoor Botfly mounted on a door frame, tail dropping into the gap](images/FOSS-BackDoorBotfly1.jpg)
+![FOSS Backdoor Botfly mounted on a door frame, tail dropping into the gap](images/FOSS-BackDoorBotfly1.jpg)
 
-![Close-up of the Backdoor Botfly clip on the door frame](images/FOSS-BackDoorBotfly2.jpg)
+![Close-up of the FOSS Backdoor Botfly clip on the door frame](images/FOSS-BackDoorBotfly2.jpg)
 
-![Backdoor Botfly deployed above the door](images/FOSS-BackDoorBotfly3.jpg)
+![FOSS Backdoor Botfly deployed above the door](images/FOSS-BackDoorBotfly3.jpg)
 
 ## Contents
 
