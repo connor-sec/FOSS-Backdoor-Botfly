@@ -8,6 +8,14 @@ This is the earlier, community design that anyone can print, build, and modify. 
 
 The Backdoor Botfly mounts on a door frame above the door, on the side opposite the exposed hinges. When the door opens and then closes, the tool's tail drops into the gap and prevents the door from securely latching — supporting authorized re-entry during a physical security assessment. It works on many interior and exterior doors where the hinges are visible to you.
 
+## Gallery
+
+![Backdoor Botfly mounted on a door frame, tail dropping into the gap](images/FOSS-BackDoorBotfly1.jpg)
+
+![Close-up of the Backdoor Botfly clip on the door frame](images/FOSS-BackDoorBotfly2.jpg)
+
+![Backdoor Botfly deployed above the door](images/FOSS-BackDoorBotfly3.jpg)
+
 ## Contents
 
 Build files, 3D-print models (STL), a bill of materials, and assembly instructions will live here. (Add your files to this repo.)
