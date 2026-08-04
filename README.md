@@ -26,7 +26,9 @@ Due to the nature of this device, we recommend not using it on the main door but
 
 ## Contents
 
-Build files, 3D-print models (STL), a bill of materials, and assembly instructions will live here. (Add your files to this repo.)
+**Bill of materials (per unit):** 2 zip ties, 3M VHB tape, and a 3D-printed body printed at 100% infill.
+
+Build files, 3D-print models (STL), and assembly instructions will live here. (Add your files to this repo.)
 
 ## Responsible use
 
