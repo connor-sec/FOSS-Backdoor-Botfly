@@ -4,7 +4,7 @@ The free and open-source version of the **Backdoor Botfly** — a small (see bla
 
 ![FOSS Backdoor Botfly shown next to a blank card for scale](images/FOSS-BackDoorBotflyScale.jpg)
 
-This is the earlier, community design that anyone can print, build, and modify. A refined version is in development for launch at DEF CON 34.
+> **Legacy design.** This repository is archived and no longer updated. It is the earlier community design that anyone can print, build, and modify. The Backdoor Botfly has since been redesigned into a three-piece version that debuted at DEF CON 34. See the [Backdoor Botfly write-up](https://connorhaft.com/backdoor-botfly.html) for the story and the current version.
 
 ## How it works
 
