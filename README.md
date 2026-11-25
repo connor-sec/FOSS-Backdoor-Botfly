@@ -20,8 +20,6 @@ As soon as the door opens, while a person is exiting, the FOSS Backdoor Botfly's
 
 Assuming the person does not see it, as the door closes it will catch the FOSS Backdoor Botfly's tail, which buries itself between the door and door frame, ultimately preventing the door from securely closing.
 
-![FOSS Backdoor Botfly deployed above the door](images/FOSS-BackDoorBotfly3.jpg)
-
 Due to the nature of this device, we recommend not using it on the main door but rather a smokers' exit, side exit, or back door.
 
 ## Contents
